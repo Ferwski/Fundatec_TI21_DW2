@@ -1,7 +1,7 @@
 const user = [
   {
     nome: 'Roberto',
-    anoNascimento '1997',
+    anoNascimento: '1997',
     email: 'robertinho@gmail.com',
     id_name: 'Beto_36',
     cidade: 'Porto Alegre',
